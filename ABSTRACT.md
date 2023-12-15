@@ -1,5 +1,1 @@
-
-Sample image template:
-<img src="https://github.com/dataset-ninja/gland-segmentation/assets/78355358/f158d0dd-71d5-41a2-aba5-4a5f57d54c35" alt="image" width="800">
-
-<span style="font-size: smaller; font-style: italic;">Image description.</span>
+Continuing from the original [PVDN dataset](https://arxiv.org/abs/2012.15376), the **PVDN Urban: Provident Vehicle Detection at Night in Urban Scenarios** dataset comprises over 14,000 images across 140 scenes recorded at night in two medium-sized cities in Germany. Automotive-grade RYCy cameras were employed for data collection. This dataset is specifically designed for investigating the challenge of detecting oncoming vehicles in urban scenarios during nighttime, even before they become directly visible. Each scene in the dataset includes annotations of light reflections caused by oncoming vehicles, marked using binary masks.
