@@ -15,7 +15,7 @@ from dataset_tools.templates import (
 ##################################
 PROJECT_NAME: str = "PVDN Urban"
 PROJECT_NAME_FULL: str = "PVDN Urban: Provident Vehicle Detection at Night in Urban Scenarios"
-HIDE_DATASET = True  # set False when 100% sure about repo quality
+HIDE_DATASET = False  # set False when 100% sure about repo quality
 
 ##################################
 # * After uploading to instance ##
